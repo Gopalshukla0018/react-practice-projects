@@ -11,7 +11,7 @@ While learning React, I wanted a place where I could:
 - Practice real-world concepts with hands-on mini projects  
 - Revisit & revise my learnings anytime  
 - Track my progress in one place  
-- Share with recruiters and collaborators
+
 
 ---
 
