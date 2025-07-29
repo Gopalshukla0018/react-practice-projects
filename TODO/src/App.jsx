@@ -9,6 +9,7 @@ function App() {
         <h1>TODO APP </h1>
         <div>
           <input
+          
             type="text"
             placeholder="Enter Your Todo"
             value={InputVal}
