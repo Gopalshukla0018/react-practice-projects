@@ -3,7 +3,7 @@
 import data from "./data";
 import "./accordion.css";
 
-import { useActionState, useState } from "react";
+import {  useState } from "react";
 
 const accordion = () => {
   const [selected, setSelected] = useState(null);
