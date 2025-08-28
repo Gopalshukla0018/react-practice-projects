@@ -18,7 +18,8 @@ While learning React, I wanted a place where I could:
 ## 📂 Projects Included
 
 - 🔄 Counter with State
-- 📝 Todo App 
+- 📝 Todo App
+- - Accordion with Multiselection
  
 *(More coming soon...)*
 
