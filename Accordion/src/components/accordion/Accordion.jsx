@@ -21,7 +21,7 @@ const accordion = () => {
     setMultiple(copyMul);
   };
 
-  console.log(selected, multiple);
+
   return (
     <div className="wrapper ">
       <button
