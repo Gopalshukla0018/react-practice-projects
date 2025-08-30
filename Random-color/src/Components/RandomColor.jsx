@@ -15,7 +15,7 @@ const RandomColor = () => {
     for (let i = 0; i < 6; i++) {
       hexColor += hex[randomColorUtility(hex.length)];
     }
-    console.log(hexColor);
+  ;
     setColor(hexColor);
   };
   const handleCreateRandomRgbColor = () => {
@@ -23,7 +23,7 @@ const RandomColor = () => {
     const g = Math.floor(Math.random() * 256);
     const b = Math.floor(Math.random() * 256);
     let rgb = `rgb(${r},${g},${b})`;
-    console.log(rgb);
+
 
     setColor(rgb);
   };
